@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "420632176539",
+    "project_id": "parking-finder-89472",
+    "storage_bucket": "parking-finder-89472.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420632176539:android:4cee5802b955d4893a233e",
+        "android_client_info": {
+          "package_name": "com.arbind.carparkingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420632176539-q6ue1km19mj5o1aeigd0mur8ms4387nm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmLrHnzmyt5jBHOswAEAaBkzPNGJ6rCwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420632176539-q6ue1km19mj5o1aeigd0mur8ms4387nm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
